@@ -12,3 +12,6 @@ Features
 Technologies Used
 1 HTML5
 2 CSS3 (Flexbox, Hover Effects)
+
+# Live Preview
+View Project(https://Joe-the-boy.github.io/playing-cards/)
