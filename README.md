@@ -13,5 +13,4 @@ Technologies Used
 1 HTML5
 2 CSS3 (Flexbox, Hover Effects)
 
-# Live Preview
-View Project(https://Joe-the-boy.github.io/playing-cards/)
+# Live Previewhttps://github.com/Joe-the-boy/My-Projects-for-my-jorney/blob/main/html.%20colored%20markers.html
